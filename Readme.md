@@ -6,6 +6,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 A modern desktop face recognition application built using **Python**, **OpenCV**, and **Tkinter** with a stylish user interface and powerful real-time recognition features.
+this is face recognition app which shows how much our face have matched from the saved file of our facial data.
 
 ---
 
