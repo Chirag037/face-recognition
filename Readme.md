@@ -10,7 +10,7 @@ this is face recognition app which shows how much our face have matched from the
 
 ---
 
-## 🌟 Features
+## 🌟 Features  
 
 ✅ Real-time face recognition via webcam  
 ✅ Add and train new faces to the database  
